@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **[Lux (Chess Engine)](https://github.com/Sidhant-Roymoulik/Lux)**
+- 🔭 I’m currently working on **[Lux (Chess Engine)](https://github.com/Sidhant-Roymoulik/Lux)**, **[Simple Ledger](https://github.com/Sidhant-Roymoulik/ledger)**
 
 - 🛠️ C++, Python, Javascript
 
