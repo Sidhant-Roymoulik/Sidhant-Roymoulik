@@ -9,6 +9,7 @@
 <p align="center">
   <img style="height: 150px" src="https://github-readme-stats.vercel.app/api?username=Sidhant-Roymoulik&theme=bear&hide_border=true&include_all_commits=false&count_private=false" />
   <img style="height: 150px" src="https://github-readme-streak-stats.herokuapp.com/?user=Sidhant-Roymoulik&theme=bear&hide_border=true" />
+  <img style="height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidhant-Roymoulik&theme=bear&hide_border=true&hide=CMake,Makefile&layout=compact&langs_count=6" />
 </p>
 
 <!--
