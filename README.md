@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **[Lux (Chess Engine)](https://github.com/Sidhant-Roymoulik/Lux)**, **Pipeline (ML model to help HS football players find the right college)**
 
-- 🛠️ C++, Python, Javascript
+- 🛠️ C++, Python, TypeScript
 
 - 📫 How to reach me: ***sidhant.roymoulik@gmail.com***
 
