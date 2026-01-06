@@ -1,16 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on **[Lux (Chess Engine)](https://github.com/Sidhant-Roymoulik/Lux)**
-
-- 🛠️ C++, Python, TypeScript
-
+- 🌱 I’m currently learning Python, C++
 - 📫 How to reach me: ***sidhant.roymoulik@gmail.com***
 
-<p align="center">
-<!--   <img style="height: 150px" src="https://github-readme-stats.vercel.app/api?username=Sidhant-Roymoulik&theme=bear&hide_border=true&include_all_commits=false&count_private=false" /> -->
-  <img style="height: 150px" src="https://github-readme-streak-stats.herokuapp.com/?user=Sidhant-Roymoulik&theme=bear&hide_border=true" />
-  <img style="height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidhant-Roymoulik&theme=bear&hide_border=true&hide=CMake,Makefile&layout=compact&langs_count=6" />
-</p>
 
 <!--
 **Sidhant-Roymoulik/Sidhant-Roymoulik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
