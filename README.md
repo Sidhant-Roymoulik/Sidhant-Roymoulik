@@ -1,7 +1,5 @@
 Trying to optimize the fun out of games
 
-sidhant.roymoulik@gmail.com
-
 
 <!--
 **Sidhant-Roymoulik/Sidhant-Roymoulik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
