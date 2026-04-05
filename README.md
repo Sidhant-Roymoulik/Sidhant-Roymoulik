@@ -1,8 +1,6 @@
-### Hi there 👋
+Trying to optimize the fun out of games
 
-- 🔭 I’m currently working on **[Lux (Chess Engine)](https://github.com/Sidhant-Roymoulik/Lux)**
-- 🌱 I’m currently learning Python, C++
-- 📫 How to reach me: ***sidhant.roymoulik@gmail.com***
+sidhant.roymoulik@gmail.com
 
 
 <!--
